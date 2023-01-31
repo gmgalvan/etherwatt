@@ -1,0 +1,8 @@
+basePath: /etherwatt/v1
+host: localhost:8080
+info:
+  contact: {}
+  description: EtherWatt server API
+  title: EtherWatt API
+paths: {}
+swagger: "2.0"

@@ -1,0 +1,11 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "EtherWatt server API",
+        "title": "EtherWatt API",
+        "contact": {}
+    },
+    "host": "localhost:8080",
+    "basePath": "/etherwatt/v1",
+    "paths": {}
+}
